@@ -62,3 +62,7 @@ You should see this:
 Finally, you can import and use the module:
 
 ![](done.png)
+
+`Pluto.jl` has its own package manager built in, so you have to also add the module there to get access in your notebooks:
+
+![](pluto.png)
