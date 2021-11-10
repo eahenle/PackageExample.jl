@@ -14,7 +14,7 @@ You should see something like this:
 
 ![](step_one.png)
 
-Now you should have a `Project.toml` file.  Add the name and UUID for your package, like so:
+Now you should have a `Project.toml` file.  Add the name and UUID for your package in this file, like so:
 
 ```
 name = "PackageExample"
