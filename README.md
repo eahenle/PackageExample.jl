@@ -58,3 +58,7 @@ Pkg.develop("https://github.com/eahenle/PackageExample.jl")
 You should see this:
 
 ![](add_to_dev.png)
+
+Finally, you can import and use the module:
+
+![](done.png)
