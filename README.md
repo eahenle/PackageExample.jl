@@ -44,7 +44,7 @@ function hello_world()
     @info "Hello, world!"
 end
 
-export hello_word
+export hello_world
 
 end
 ```
@@ -54,3 +54,7 @@ With everything in place on GitHub, you can now add your package to your local d
 ```julia
 Pkg.develop("https://github.com/eahenle/PackageExample.jl")
 ```
+
+You should see this:
+
+![](add_to_dev.png)

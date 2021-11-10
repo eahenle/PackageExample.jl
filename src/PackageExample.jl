@@ -14,6 +14,6 @@ function hello_world()
     @info "Hello, world!"
 end
 
-export hello_word
+export hello_world
 
 end
